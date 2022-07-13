@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klucas2022
 - 👀 I’m interested in ...Creating business apps with database connectivity using C# 
-- 🌱 I’m currently learning ...C# WinForms / MVC
+- 🌱 I’m currently learning ...C# WinForms / MVC / Entity Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
